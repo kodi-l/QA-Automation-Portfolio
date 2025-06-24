@@ -9,5 +9,9 @@ I’m transitioning into QA from insurance and claims, combining my background i
 - Automation testing (University of Minnesota Software Testing and Automation – in progress)
 
 ### 📁 Projects
-- [Login Feature](login-feature/test_cases.md)
-- [To-Do App](todo-app/exploratory_notes.md)
+- [Login Feature – Test Cases](login-feature/test_cases.md)
+- [Login Feature – Bug Report](login-feature/bug_report.md)
+- [Login Feature – Automation Pseudocode](login-feature/login_test_pseudocode.md)
+- [To-Do App – Exploratory Notes](todo-app/exploratory_notes.md)
+- [To-Do App – Automation Plan](todo-app/automation_ideas.md)
+- [Bug Reports – Task Edit Issue](bug-reports/task-edit-ticket.md)
