@@ -1,4 +1,4 @@
-# 🧪 Login Feature – Automation-Ready Test Cases
+# Login Feature – Automation Ready Test Cases
 
 | ID    | Title                       | Preconditions         | Steps                                                                 | Expected Result                        | Notes for Automation |
 |-------|-----------------------------|------------------------|------------------------------------------------------------------------|----------------------------------------|----------------------|
